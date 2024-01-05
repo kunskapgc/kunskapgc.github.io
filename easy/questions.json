@@ -1,0 +1,833 @@
+[
+    {
+        "category": "the",
+        "question": "Quel est le rôle principal des travaux publics parmi les options suivantes ?",
+        "options": [
+            {
+                "text": "Aménager le cadre de vie.",
+                "correct": true
+            },
+            {
+                "text": "La production de l'énergie.",
+                "correct": false
+            },
+            {
+                "text": "L'acheminement des fluides.",
+                "correct": false
+            },
+            {
+                "text": "Permettre aux hommes de mieux communiquer.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelle activité représente environ 7 % de l'activité des Travaux Publics ?",
+        "options": [
+            {
+                "text": "Travaux d'entretien et de réhabilitation.",
+                "correct": true
+            },
+            {
+                "text": "Génie civil.",
+                "correct": false
+            },
+            {
+                "text": "Travaux de construction.",
+                "correct": false
+            },
+            {
+                "text": "Améliorer l'environnement.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Parmi les options suivantes, quels sont les deux types d'activités auxquels se partage équitablement l'activité des Travaux Publics ?",
+        "options": [
+            {
+                "text": "Les travaux d'entretien et de réhabilitation.",
+                "correct": false
+            },
+            {
+                "text": "Les travaux de construction.",
+                "correct": true
+            },
+            {
+                "text": "Améliorer l'environnement.",
+                "correct": false
+            },
+            {
+                "text": "L'acheminement des fluides.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Qui sont les clients potentiels des travaux publics parmi les options suivantes ?",
+        "options": [
+            {
+                "text": "Les particuliers.",
+                "correct": true
+            },
+            {
+                "text": "L'État.",
+                "correct": true
+            },
+            {
+                "text": "Les entreprises publiques.",
+                "correct": true
+            },
+            {
+                "text": "Toutes les réponses sont correctes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quel est le client le plus important des travaux publics parmi les options suivantes ?",
+        "options": [
+            {
+                "text": "Les particuliers.",
+                "correct": false
+            },
+            {
+                "text": "Les collectivités locales.",
+                "correct": true
+            },
+            {
+                "text": "L'État.",
+                "correct": false
+            },
+            {
+                "text": "Les entreprises publiques.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "cul",
+        "question": "Que représente l'acronyme 'FNTP' parmi les options suivantes ?",
+        "options": [
+            {
+                "text": "Fédération Nationale des Travaux Publics.",
+                "correct": true
+            },
+            {
+                "text": "Fédération Nationale des Transports Publics.",
+                "correct": false
+            },
+            {
+                "text": "Fédération des Nouvelles Technologies Publiques.",
+                "correct": false
+            },
+            {
+                "text": "Fédération des Travaux et Projets Nationaux.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "cul",
+        "question": "Quel type d'ouvrages les Travaux Publics construisent-ils pour permettre aux hommes de mieux communiquer ?",
+        "options": [
+            {
+                "text": "Ponts.",
+                "correct": true
+            },
+            {
+                "text": "Métros.",
+                "correct": false
+            },
+            {
+                "text": "Éoliennes.",
+                "correct": false
+            },
+            {
+                "text": "Stades.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelle est l'activité consistant à améliorer et à rénover les équipements existants parmi les options suivantes ?",
+        "options": [
+            {
+                "text": "Travaux d'entretien et de réhabilitation.",
+                "correct": true
+            },
+            {
+                "text": "Travaux de construction.",
+                "correct": false
+            },
+            {
+                "text": "Aménager le cadre de vie.",
+                "correct": false
+            },
+            {
+                "text": "La production de l'énergie.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Quelle est l'une des activités des Travaux Publics visant à améliorer l'environnement ?",
+        "options": [
+            {
+                "text": "Collecte et traitement des eaux usées.",
+                "correct": true
+            },
+            {
+                "text": "Barrages.",
+                "correct": false
+            },
+            {
+                "text": "Équipements antibruit.",
+                "correct": false
+            },
+            {
+                "text": "Routes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quel pourcentage de l'activité des Travaux Publics le génie civil représente-t-il ?",
+        "options": [
+            {
+                "text": "Environ 5 %.",
+                "correct": false
+            },
+            {
+                "text": "Environ 7 %.",
+                "correct": true
+            },
+            {
+                "text": "Environ 10 %.",
+                "correct": false
+            },
+            {
+                "text": "Environ 15 %.",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "category": "the",
+        "question": "Quelle est la principale raison pour laquelle l'innovation est considérée comme une obligation dans les Travaux Publics ?",
+        "options": [
+            {
+                "text": "Se différencier de la concurrence.",
+                "correct": false
+            },
+            {
+                "text": "Construire mieux, plus vite, au meilleur coût.",
+                "correct": false
+            },
+            {
+                "text": "Satisfaire les demandes émergentes.",
+                "correct": false
+            },
+            {
+                "text": "Toutes les réponses sont correctes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelles sont les thématiques porteuses d'innovation dans les Travaux Publics parmi les options suivantes ?",
+        "options": [
+            {
+                "text": "L'amélioration des performances des matériaux.",
+                "correct": true
+            },
+            {
+                "text": "L'amélioration de la connaissance du comportement des structures.",
+                "correct": true
+            },
+            {
+                "text": "L'amélioration des procédés de construction.",
+                "correct": true
+            },
+            {
+                "text": "Toutes les réponses sont correctes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "category": "pra",
+        "question": "Quelle est la nouvelle gamme des bétons comprenant des bétons autoplaçants et des bétons fibrés à ultra-hautes performances ?",
+        "options": [
+            {
+                "text": "Les bétons esthétiques.",
+                "correct": false
+            },
+            {
+                "text": "Les bétons dépolluants.",
+                "correct": false
+            },
+            {
+                "text": "Les bétons de fibres polypropylène.",
+                "correct": false
+            },
+            {
+                "text": "Les nouveaux bétons.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "category": "pra",
+        "question": "Quelle est la principale amélioration apportée par l'ajout d'adjuvants dans la formulation des bétons ?",
+        "options": [
+            {
+                "text": "Accroître la maniabilité des bétons.",
+                "correct": true
+            },
+            {
+                "text": "Réduire la résistance des bétons.",
+                "correct": false
+            },
+            {
+                "text": "Augmenter la quantité d'eau nécessaire à l'hydratation du ciment.",
+                "correct": false
+            },
+            {
+                "text": "Aucune des réponses ci-dessus.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Comment les grandes entreprises de Travaux Publics se sont-elles construites selon le cours ?",
+        "options": [
+            {
+                "text": "En évitant l'innovation.",
+                "correct": false
+            },
+            {
+                "text": "En réduisant leur potentiel de recherche-développement.",
+                "correct": false
+            },
+            {
+                "text": "En étant innovantes et en conservant leur savoir-faire.",
+                "correct": true
+            },
+            {
+                "text": "En ignorant les conditions de travail.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "pra",
+        "question": "Qu'est-ce que les aciers laminés produits par la sidérurgie permettent d'atteindre ?",
+        "options": [
+            {
+                "text": "Résistances plus élevées sans nuire à leur soudabilité.",
+                "correct": true
+            },
+            {
+                "text": "Résistances plus élevées avec une soudabilité réduite.",
+                "correct": false
+            },
+            {
+                "text": "Faibles résistances avec une soudabilité élevée.",
+                "correct": false
+            },
+            {
+                "text": "Aucune des réponses ci-dessus.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelle est l'une des caractéristiques des bétons dépolluants parmi les options suivantes ?",
+        "options": [
+            {
+                "text": "Ils absorbent la pollution.",
+                "correct": true
+            },
+            {
+                "text": "Ils sont résistants à la corrosion.",
+                "correct": false
+            },
+            {
+                "text": "Ils restent toujours propres.",
+                "correct": false
+            },
+            {
+                "text": "Ils absorbent les bruits.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelle est la vocation principale de la recherche dans le domaine des Travaux Publics ?",
+        "options": [
+            {
+                "text": "Valider des solutions techniques innovantes.",
+                "correct": true
+            },
+            {
+                "text": "Restreindre la gamme des solutions techniques d'usage courant.",
+                "correct": false
+            },
+            {
+                "text": "Ignorer les enjeux du moment.",
+                "correct": false
+            },
+            {
+                "text": "Toutes les réponses ci-dessus.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Comment les recherches dans les Travaux Publics sont-elles généralement financées ?",
+        "options": [
+            {
+                "text": "Exclusivement par des budgets publics.",
+                "correct": false
+            },
+            {
+                "text": "Uniquement par des fonds privés d'entreprises.",
+                "correct": false
+            },
+            {
+                "text": "Sous forme de partenariats associant fonds privés et subventions publiques.",
+                "correct": true
+            },
+            {
+                "text": "Aucune des réponses ci-dessus.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "pra",
+        "question": "Quelle est la caractéristique principale des bétons autonettoyants ?",
+        "options": [
+            {
+                "text": "Ils absorbent la pollution.",
+                "correct": false
+            },
+            {
+                "text": "Ils restent toujours propres.",
+                "correct": true
+            },
+            {
+                "text": "Leur résistance en compression est supérieure à 130 MPa.",
+                "correct": false
+            },
+            {
+                "text": "Ils absorbent les bruits.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Quels sont les défis du développement durable auxquels les Travaux Publics sont confrontés, selon le cours ?",
+        "options": [
+            {"text": "Uniquement l'impact direct des chantiers.", "correct": false},
+            {"text": "Uniquement leur rôle dans l'aménagement des infrastructures.", "correct": false},
+            {"text": "Les deux : l'impact direct des chantiers et leur rôle dans l'aménagement des infrastructures.", "correct": true},
+            {"text": "Aucune des réponses ci-dessus.", "correct": false}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Sur quels aspects les Travaux Publics sont-ils impliqués en premier chef en matière de développement durable ?",
+        "options": [
+            {"text": "Gestion des ressources renouvelables.", "correct": false},
+            {"text": "Production de déchets et de polluants.", "correct": false},
+            {"text": "Consommation d'énergie et émissions de gaz à effet de serre.", "correct": false},
+            {"text": "Toutes les réponses sont correctes.", "correct": true}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Quelles sont quelques-unes des grandes thématiques liées au développement durable ?",
+        "options": [
+            {"text": "Energies renouvelables.", "correct": true},
+            {"text": "Déplacements et intermodalité.", "correct": true},
+            {"text": "Recyclage.", "correct": true},
+            {"text": "Toutes les réponses sont correctes.", "correct": true}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Qu'est-ce que l'ACV (Analyse du Cycle de Vie) selon le cours ?",
+        "options": [
+            {"text": "Un outil d'évaluation synthétique des impacts sur l'environnement.", "correct": true},
+            {"text": "Une méthode d'analyse économique.", "correct": false},
+            {"text": "Une norme ISO 14040.", "correct": false},
+            {"text": "Un calcul de l'empreinte écologique.", "correct": false}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Que désigne le terme 'biodiversité' ?",
+        "options": [
+            {"text": "La diversité des énergies renouvelables.", "correct": false},
+            {"text": "La diversité des espèces vivantes sur Terre.", "correct": true},
+            {"text": "La diversité des matériaux de construction.", "correct": false},
+            {"text": "La diversité des ressources non renouvelables.", "correct": false}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Qu'est-ce que l'effet de serre, selon le cours ?",
+        "options": [
+            {"text": "Un phénomène naturel de rétention des rayons infrarouges dans l'atmosphère.", "correct": true},
+            {"text": "Une méthode pour réduire les émissions de gaz à effet de serre.", "correct": false},
+            {"text": "Une norme ISO 14040.", "correct": false},
+            {"text": "Un calcul de l'empreinte écologique.", "correct": false}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Qu'est-ce que l'empreinte écologique mesure-t-elle ?",
+        "options": [
+            {"text": "L'impact écologique d'une organisation.", "correct": true},
+            {"text": "La biodiversité d'une région.", "correct": false},
+            {"text": "Les émissions de gaz à effet de serre.", "correct": false},
+            {"text": "La diversité des espèces vivantes sur Terre.", "correct": false}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Quelle est l'une des méthodes utilisées par les Travaux Publics pour lutter contre le réchauffement climatique ?",
+        "options": [
+            {"text": "Utilisation d'engins de chantier consommant moins de carburant.", "correct": true},
+            {"text": "Augmentation des émissions de gaz à effet de serre.", "correct": false},
+            {"text": "Ignorance des problèmes environnementaux.", "correct": false},
+            {"text": "Aucune des réponses ci-dessus.", "correct": false}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Comment les Travaux Publics contribuent-ils à la réduction des nuisances occasionnées par les chantiers ?",
+        "options": [
+            {"text": "En augmentant les niveaux de bruit.", "correct": false},
+            {"text": "En ignorant les préoccupations des riverains.", "correct": false},
+            {"text": "En utilisant du matériel de surface insonorisé.", "correct": true},
+            {"text": "Aucune des réponses ci-dessus.", "correct": false}
+        ]
+    },
+    {
+        "category": "nat",
+        "question": "Qu'est-ce que l'économie d'eau dans le contexte des Travaux Publics ?",
+        "options": [
+            {"text": "Rénovation des réseaux d'acheminement de l'eau.", "correct": false},
+            {"text": "Ignorance des problèmes de fuite d'eau douce.", "correct": false},
+            {"text": "Gestion optimisée de l'eau sur les chantiers.", "correct": true},
+            {"text": "Aucune des réponses ci-dessus.", "correct": false}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Qui est le maître d'ouvrage dans le cadre d'un chantier de travaux publics ?",
+        "options": [
+            {"text": "Personne physique ou morale chargée d'organiser la sécurité.", "correct": false},
+            {"text": "Personne physique ou morale qui réalise les travaux.", "correct": false},
+            {"text": "Personne physique ou morale pour le compte de qui les travaux sont réalisés.", "correct": true},
+            {"text": "Personne physique ou morale qui étudie le projet sur le plan technique.", "correct": false}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelle est la définition du maître d'œuvre ?",
+        "options": [
+            {"text": "Personne physique ou morale qui étudie le projet sur le plan technique.", "correct": true},
+            {"text": "Personne physique ou morale chargée d'organiser la sécurité.", "correct": false},
+            {"text": "Personne physique ou morale qui propose la réception et le règlement des travaux.", "correct": false},
+            {"text": "Personne physique ou morale qui réalise les travaux.", "correct": false}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quel est le rôle du bureau de contrôle ou contrôleur technique ?",
+        "options": [
+            {"text": "Organisme chargé d'étudier le projet sur le plan technique.", "correct": false},
+            {"text": "Personne chargée d'organiser la sécurité et la santé sur un chantier.", "correct": false},
+            {"text": "Organisme assurant la sécurité des biens et des personnes sur le chantier.", "correct": false},
+            {"text": "Personne chargée de diriger l'exécution du marché.", "correct": true}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Qu'est-ce que le Coordonnateur SPS (Santé Prévention Sécurité) fait sur un chantier ?",
+        "options": [
+            {"text": "Dirige l'exécution du marché.", "correct": false},
+            {"text": "Organise la sécurité et la santé de plusieurs entreprises.", "correct": true},
+            {"text": "Étudie le projet sur le plan technique.", "correct": false},
+            {"text": "Propose la réception et le règlement des travaux.", "correct": false}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelle est la mission du bureau d'études techniques (BET) ?",
+        "options": [
+            {"text": "Assurer la sécurité des biens et des personnes sur le chantier.", "correct": false},
+            {"text": "Coordonner les entreprises pour vérifier l'avancée des travaux.", "correct": false},
+            {"text": "Étudier sur le plan technique le projet pour garantir la résistance mécanique et la stabilité des ouvrages.", "correct": true},
+            {"text": "Réaliser une ou toute partie du marché en fournissant les matériaux et la main d'œuvre.", "correct": false}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelle est la fonction de l'entrepreneur sur un chantier ?",
+        "options": [
+            {"text": "Étudier le projet sur le plan technique.", "correct": false},
+            {"text": "Proposer la réception et le règlement des travaux.", "correct": false},
+            {"text": "Diriger l'exécution du marché.", "correct": false},
+            {"text": "Exécuter les travaux en fournissant les matériaux, les matériels et la main d'œuvre.", "correct": true}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Qu'est-ce qu'un sous-traitant dans le contexte des travaux publics ?",
+        "options": [
+            {"text": "Personne physique ou morale qui réalise les travaux.", "correct": false},
+            {"text": "Personne physique ou morale chargée d'organiser la sécurité.", "correct": false},
+            {"text": "Entreprise demandée à une autre entreprise de réaliser une ou toute partie du marché.", "correct": true},
+            {"text": "Organisme chargé d'étudier le projet sur le plan technique.", "correct": false}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quelle est la mission d'un Géotechnicien ou Bureau d'études de Sol dans le processus de construction ?",
+        "options": [
+            {"text": "Coordonner les entreprises pour vérifier l'avancée des travaux.", "correct": false},
+            {"text": "Déterminer la qualité du sol, ses caractéristiques mécaniques et les dispositions à prendre en fondations.", "correct": true},
+            {"text": "Assurer la sécurité des biens et des personnes sur le chantier.", "correct": false},
+            {"text": "Proposer la réception et le règlement des travaux.", "correct": false}
+        ]
+    },
+    {
+        "category": "the",
+        "question": "Quel est le rôle de l'OPC (Ordonnancement Pilotage Coordination) sur un chantier ?",
+        "options": [
+            {"text": "Coordonner les entreprises pour vérifier l'avancée des travaux.", "correct": false},
+            {"text": "Organiser la sécurité et la santé de plusieurs entreprises.", "correct": false},
+            {"text": "Diriger l'exécution du marché.", "correct": false},
+            {"text": "Déterminer la qualité du sol et les dispositions à prendre en fondations.", "correct": true}
+        ]
+    },
+        {
+            "category": "cul",
+            "question": "Quelle est la hauteur de la Tour Eiffel à Paris ?",
+            "options": [
+                {"text": "275 mètres", "correct": true},
+                {"text": "200 mètres", "correct": false},
+                {"text": "350 mètres", "correct": false},
+                {"text": "150 mètres", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quel est le plus long pont de France ?",
+            "options": [
+                {"text": "Pont de Normandie", "correct": false},
+                {"text": "Pont de Millau", "correct": true},
+                {"text": "Pont de l'Alma", "correct": false},
+                {"text": "Pont Neuf", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "En quelle année le viaduc de Millau a-t-il été inauguré ?",
+            "options": [
+                {"text": "2004", "correct": true},
+                {"text": "1995", "correct": false},
+                {"text": "2010", "correct": false},
+                {"text": "1987", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quelle est la principale fonction du Canal du Midi ?",
+            "options": [
+                {"text": "Irrigation agricole", "correct": false},
+                {"text": "Transport fluvial", "correct": true},
+                {"text": "Production d'énergie hydroélectrique", "correct": false},
+                {"text": "Alimentation en eau potable", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quel architecte a conçu le Centre Pompidou à Paris ?",
+            "options": [
+                {"text": "Jean Nouvel", "correct": false},
+                {"text": "Le Corbusier", "correct": false},
+                {"text": "Renzo Piano", "correct": false},
+                {"text": "Richard Rogers", "correct": true}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quelle est la fonction du barrage de la Rance en Bretagne ?",
+            "options": [
+                {"text": "Irrigation agricole", "correct": false},
+                {"text": "Production d'électricité marémotrice", "correct": true},
+                {"text": "Régulation du débit des rivières", "correct": false},
+                {"text": "Contrôle des inondations", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quelle ville française est célèbre pour ses canaux et ses ponts ?",
+            "options": [
+                {"text": "Lyon", "correct": false},
+                {"text": "Bordeaux", "correct": false},
+                {"text": "Strasbourg", "correct": false},
+                {"text": "Venise", "correct": true}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "En quelle année a débuté la construction du Louvre à Paris en tant que musée ?",
+            "options": [
+                {"text": "1793", "correct": true},
+                {"text": "1600", "correct": false},
+                {"text": "1875", "correct": false},
+                {"text": "1750", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quel est le plus long tunnel ferroviaire en France ?",
+            "options": [
+                {"text": "Tunnel du Mont-Cenis", "correct": false},
+                {"text": "Tunnel du Fréjus", "correct": false},
+                {"text": "Tunnel du Mont-Blanc", "correct": false},
+                {"text": "Tunnel du Saint-Gothard", "correct": true}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quelle est la fonction du viaduc de Garabit en Auvergne ?",
+            "options": [
+                {"text": "Transport routier", "correct": false},
+                {"text": "Transport ferroviaire", "correct": true},
+                {"text": "Approvisionnement en eau", "correct": false},
+                {"text": "Production d'énergie solaire", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quel est le plus ancien pont de Paris encore debout ?",
+            "options": [
+                {"text": "Pont des Arts", "correct": false},
+                {"text": "Pont Neuf", "correct": true},
+                {"text": "Pont Alexandre III", "correct": false},
+                {"text": "Pont d'Iéna", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quelle est la longueur totale du réseau de métro à Paris ?",
+            "options": [
+                {"text": "200 km", "correct": false},
+                {"text": "300 km", "correct": false},
+                {"text": "214 km", "correct": true},
+                {"text": "150 km", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Qui a conçu le pont du Gard dans le sud de la France ?",
+            "options": [
+                {"text": "Gustave Eiffel", "correct": false},
+                {"text": "Leonardo da Vinci", "correct": false},
+                {"text": "Les Romains", "correct": true},
+                {"text": "Norman Foster", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quel est le nom du pont qui relie Strasbourg en France à Kehl en Allemagne ?",
+            "options": [
+                {"text": "Pont de l'Europe", "correct": true},
+                {"text": "Pont des Deux Rives", "correct": false},
+                {"text": "Pont Vauban", "correct": false},
+                {"text": "Pont de l'Université", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "En quelle année a été achevé le pont du Gard ?",
+            "options": [
+                {"text": "50 av. J.-C.", "correct": true},
+                {"text": "100 apr. J.-C.", "correct": false},
+                {"text": "200 apr. J.-C.", "correct": false},
+                {"text": "300 apr. J.-C.", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quel est le nom de la première ligne de métro à Paris ?",
+            "options": [
+                {"text": "Ligne 1", "correct": true},
+                {"text": "Ligne A", "correct": false},
+                {"text": "Ligne 9", "correct": false},
+                {"text": "Ligne 14", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Où se trouve le viaduc de la Souleuvre en France ?",
+            "options": [
+                {"text": "Normandie", "correct": true},
+                {"text": "Provence", "correct": false},
+                {"text": "Alsace", "correct": false},
+                {"text": "Bretagne", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quelle ville française est célèbre pour ses remparts médiévaux ?",
+            "options": [
+                {"text": "Carcassonne", "correct": true},
+                {"text": "Avignon", "correct": false},
+                {"text": "Saint-Malo", "correct": false},
+                {"text": "Vannes", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quelle est la longueur totale du réseau autoroutier en France ?",
+            "options": [
+                {"text": "10 000 km", "correct": false},
+                {"text": "15 000 km", "correct": false},
+                {"text": "20 000 km", "correct": true},
+                {"text": "25 000 km", "correct": false}
+            ]
+        },
+        {
+            "category": "cul",
+            "question": "Quel est le nom de la ligne à grande vitesse qui relie Paris à Lyon ?",
+            "options": [
+                {"text": "LGV Nord", "correct": false},
+                {"text": "LGV Atlantique", "correct": false},
+                {"text": "LGV Est", "correct": true},
+                {"text": "LGV Sud-Ouest", "correct": false}
+            ]
+        }    
+]

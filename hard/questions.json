@@ -1,0 +1,202 @@
+[
+    {
+        "category": "Histoire",
+        "question": "Quel empereur romain a brûlé Rome en 64 après J.-C.?",
+        "options": [
+            {"text": "Néron", "correct": true},
+            {"text": "Auguste", "correct": false},
+            {"text": "Caligula", "correct": false},
+            {"text": "Trajan", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel explorateur a atteint l'Inde par voie maritime en 1498 ?",
+        "options": [
+            {"text": "Vasco de Gama", "correct": true},
+            {"text": "Christophe Colomb", "correct": false},
+            {"text": "Marco Polo", "correct": false},
+            {"text": "Ferdinand Magellan", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quelle bataille a mis fin à la Guerre de Cent Ans en 1453 ?",
+        "options": [
+            {"text": "Bataille de Castillon", "correct": true},
+            {"text": "Bataille d'Azincourt", "correct": false},
+            {"text": "Bataille de Crécy", "correct": false},
+            {"text": "Bataille de Poitiers", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Qui était le premier président des États-Unis ?",
+        "options": [
+            {"text": "George Washington", "correct": true},
+            {"text": "Thomas Jefferson", "correct": false},
+            {"text": "John Adams", "correct": false},
+            {"text": "James Madison", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quelle civilisation a construit les pyramides de Gizeh ?",
+        "options": [
+            {"text": "Égyptiens", "correct": true},
+            {"text": "Mésopotamiens", "correct": false},
+            {"text": "Grecs", "correct": false},
+            {"text": "Romains", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Qui était le roi de France lors de la Révolution française ?",
+        "options": [
+            {"text": "Louis XVI", "correct": true},
+            {"text": "Louis XIV", "correct": false},
+            {"text": "Louis XV", "correct": false},
+            {"text": "Charles X", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel événement a marqué le début de la Première Guerre mondiale en 1914 ?",
+        "options": [
+            {"text": "Assassinat de l'archiduc François-Ferdinand", "correct": true},
+            {"text": "Bataille de la Marne", "correct": false},
+            {"text": "Bataille de Verdun", "correct": false},
+            {"text": "Trahison de Mata Hari", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quelle est la capitale de l'empire inca ?",
+        "options": [
+            {"text": "Cuzco", "correct": true},
+            {"text": "Lima", "correct": false},
+            {"text": "Bogotá", "correct": false},
+            {"text": "Quito", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel était le nom du navire de Christophe Colomb lorsqu'il a atteint l'Amérique en 1492 ?",
+        "options": [
+            {"text": "Santa Maria", "correct": true},
+            {"text": "Niña", "correct": false},
+            {"text": "Pinta", "correct": false},
+            {"text": "Victoria", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quelle est la date de la Déclaration d'indépendance des États-Unis ?",
+        "options": [
+            {"text": "4 juillet 1776", "correct": true},
+            {"text": "14 juillet 1789", "correct": false},
+            {"text": "5 mai 1789", "correct": false},
+            {"text": "12 octobre 1492", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel empereur romain a construit le Colisée à Rome ?",
+        "options": [
+            {"text": "Vespasien", "correct": true},
+            {"text": "Auguste", "correct": false},
+            {"text": "Néron", "correct": false},
+            {"text": "Trajan", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Qui a dirigé la révolution cubaine en 1959 ?",
+        "options": [
+            {"text": "Fidel Castro", "correct": true},
+            {"text": "Che Guevara", "correct": false},
+            {"text": "Batista", "correct": false},
+            {"text": "Raul Castro", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel événement a déclenché la Seconde Guerre mondiale en 1939 ?",
+        "options": [
+            {"text": "L'invasion de la Pologne par l'Allemagne", "correct": true},
+            {"text": "L'attaque de Pearl Harbor", "correct": false},
+            {"text": "La bataille de Stalingrad", "correct": false},
+            {"text": "Le traité de Versailles", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel empereur chinois a ordonné la construction de la Grande Muraille de Chine au IIIe siècle avant J.-C. ?",
+        "options": [
+            {"text": "Qin Shi Huangdi", "correct": true},
+            {"text": "Han Wudi", "correct": false},
+            {"text": "Kangxi", "correct": false},
+            {"text": "Taizong", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel philosophe grec a été le mentor d'Alexandre le Grand ?",
+        "options": [
+            {"text": "Aristote", "correct": true},
+            {"text": "Socrate", "correct": false},
+            {"text": "Platon", "correct": false},
+            {"text": "Héraclite", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quelle reine d'Égypte était la dernière de la dynastie des Ptolémées ?",
+        "options": [
+            {"text": "Cléopâtre VII", "correct": true},
+            {"text": "Néfertiti", "correct": false},
+            {"text": "Hatchepsout", "correct": false},
+            {"text": "Isis", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quelle guerre a opposé les États-Unis et le Vietnam de 1955 à 1975 ?",
+        "options": [
+            {"text": "Guerre du Vietnam", "correct": true},
+            {"text": "Guerre de Corée", "correct": false},
+            {"text": "Guerre du Golfe", "correct": false},
+            {"text": "Guerre froide", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel roi d'Angleterre a signé la Magna Carta en 1215 ?",
+        "options": [
+            {"text": "Jean sans Terre", "correct": true},
+            {"text": "Richard Cœur de Lion", "correct": false},
+            {"text": "Henri VIII", "correct": false},
+            {"text": "Édouard III", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel traité a mis fin à la Première Guerre mondiale en 1919 ?",
+        "options": [
+            {"text": "Traité de Versailles", "correct": true},
+            {"text": "Traité de Trianon", "correct": false},
+            {"text": "Traité de Saint-Germain-en-Laye", "correct": false},
+            {"text": "Traité de Sèvres", "correct": false}
+        ]
+    },
+    {
+        "category": "Histoire",
+        "question": "Qui était le premier empereur de Rome ?",
+        "options": [
+            {"text": "Auguste", "correct": true},
+            {"text": "Jules César", "correct": false},
+            {"text": "Néron", "correct": false},
+            {"text": "Trajan", "correct": false}
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheets" type="text/css" href="/ressources/styles.css">
+    <link rel="icon" href="/ressources/images/favicon.png" type="image/x-icon">
+    <title>Kunskap GC</title>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    background-image: url('/ressources/images/20190923-3946.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    position: absolute;
+    top: 25%;
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d9d9;
+    border-radius: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.4);
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+}
+
+.site-name {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.demo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px 10px;
+    background-color: #fbb11b;
+    border-radius: 8px;
+    transform: rotate(30deg) translate(10px, -10px);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    font-size: 14px;
+    color: #333;
+}
+
+.selection-container {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50%;
+    width: 55%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 20px 20px 0 0;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    width: 50%;
+    height: 20%;
+    font-size: 16px;
+    color: black;
+    background-color: red;
+    border: none;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 600;
+}
+
+
+
+.btn:nth-child(1){
+    background-color: #04d200;
+    box-shadow: 0px 4px 0px 0px #1DB31A;
+}
+.btn:nth-child(2){
+    background-color: #fbb11b;
+    box-shadow: 0px 4px 0px 0px #E19D1A;
+}
+.btn:nth-child(3){
+    background-color: #ff2828;
+    box-shadow: 0px 4px 0px 0px #D72121;
+}
+.btn:nth-child(1):hover{
+    box-shadow: none;
+}
+.btn:nth-child(2):hover{
+    box-shadow: none;
+}
+.btn:nth-child(3):hover{
+    box-shadow: none;
+}
+
+
+
+
+
+
+
+
+
+/*Zone des animation*/
+/* animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both; */
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+</style>
+<body>
+    <div class="container">
+        <span class="demo">Démo</span>
+        <div class="logo">
+            <img src="/ressources/images/logo_trivial_gc-removebg-preview (1) 1.svg">
+        </div>
+        <div class="site-name">Kunskap GC</div>
+    </div>
+    <div class="selection-container">
+        <a class="btn" href='/easy/index.html'>Facile</a>
+        <a class="btn" href="/normal/index.html">Moyen</a>
+        <a class="btn" href="/hard/index.html">Difficile</a>
+    </div>
+</body>
+</html>
